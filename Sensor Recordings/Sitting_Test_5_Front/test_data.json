@@ -1,0 +1,54 @@
+{
+    "git_hash":["d6791f2c0c3d46825e3182babab8217ac2bc8c52"], 
+    "rec_id":["SEA-1801695175__2022_06_21__13_42_12"], 
+    "device_SN":["Embedded_b4vStraw"], 
+    "number_of_frames":[463], 
+    "frame_rate":[null], 
+    "error_msg":[
+        "Message: Error recording", 
+            "Source: MultiPortRecorder", 
+        "HelpLink: "
+    ], 
+    "error_stack":[
+        {
+            "file":[
+                "C:\\Users\\migelwlf\\AppData\\Local\\Temp\\migelwlf\\mcrCache9.9\\Vayyar0\\VayyarHomeAp\\soefcxs.m"
+            ], 
+                 
+            "name":["soefcxs"], 
+            "line":[507]
+        }, 
+        {
+            "file":[
+                "C:\\Users\\migelwlf\\AppData\\Local\\Temp\\migelwlf\\mcrCache9.9\\Vayyar0\\VayyarHomeAp\\mdipetg.m"
+            ], 
+                 
+            "name":["mdipetg"], 
+            "line":[31]
+        }, 
+        {
+            "file":[
+                "C:\\Users\\migelwlf\\AppData\\Local\\Temp\\migelwlf\\mcrCache9.9\\Vayyar0\\VayyarHomeAp\\slailhf.m"
+            ], 
+                 
+            "name":["InitSession"], 
+            "line":[206]
+        }, 
+        {
+            "file":[
+                "C:\\Users\\migelwlf\\AppData\\Local\\Temp\\migelwlf\\mcrCache9.9\\Vayyar0\\VayyarHomeAp\\slailhf.m"
+            ], 
+                 
+            "name":["slailhf"], 
+            "line":[18]
+        }, 
+        {
+            "file":[
+                "C:\\Users\\migelwlf\\AppData\\Local\\Temp\\migelwlf\\mcrCache9.9\\Vayyar0\\VayyarHomeAp\\qiqtptg.m"
+            ], 
+                 
+            "name":["qiqtptg"], 
+            "line":[228]
+        }
+    ]
+}

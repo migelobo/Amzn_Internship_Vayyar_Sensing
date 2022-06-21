@@ -1,0 +1,19 @@
+{
+    "Common":{
+        "sensorOrientation":{
+            "mode":"basicXYZ", 
+            "mountPlane":"xz", 
+            "rotAxes":"xz", 
+            "rotDeg":[-90,-45], 
+            "transVec":[0,0,1.5], 
+            "userToWebGUITransMat":[[-1,0,0,0],[0,0,1,0],[0,1,0,0],[0,0,0,1]], 
+            "boardToWebGUITransMat":[
+                [-0.70710678118654757,-0.70710678118654757,0,0], 
+                [0.70710678118654757,-0.70710678118654757,0,1.5], 
+                [0,0,1,0], 
+                [0,0,0,1]
+            ]
+        }
+    }, 
+    "MonitoredRoomDims":[-2.5,2.5,0.2,5,0,2]
+}
