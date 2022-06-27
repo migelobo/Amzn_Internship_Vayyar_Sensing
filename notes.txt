@@ -2,3 +2,5 @@ get standard deviation of each z axis based on fixed sensor use
 that to get a larger range of what can qualify as "sitting"
 
 need to get more subjects, just realized this is all based on me*
+------
+Eventually make automation fo whaich target stays there the longest but for now just keep as is
