@@ -1,0 +1,30 @@
+{
+	"sensorParameters": {
+		"Cfg.ExternalGUI.FilterImage.numOfSd": 3,
+		"Cfg.MonitoredRoomDims": [
+			-2,
+			2,
+			0.2,
+			2,
+			0,
+			2
+		],
+		"Cfg.Common.sensorOrientation.mountPlane": "xz",
+		"Cfg.Common.sensorOrientation.transVec(3)": 1.5,
+		"MPR.save_dir": "./",
+		"MPR.save_dir_base": "C:\\Users\\migelwlf\\Documents\\Vayyar\\Sensor Recordings",
+		"MPR.read_from_file": 0,
+		"MPR.save_to_file": 0,
+		"MPR.save_outputs_to_file": false,
+		"Cfg.OutputData.save_to_file": true,
+		"MPR.allow_savedData_override": false,
+		"MPR.save_pointCloud_to_file": false,
+		"Cfg.filterType": "mti"
+	},
+	"guiParameters": {
+		"isCoverageFeet": false
+	},
+	"socketInfo": {
+		"name": ""
+	}
+}
